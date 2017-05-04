@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e35de1-3339-4061-91a4-918eeb804406" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5_All_about_Imports/1.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="15e35de1-3339-4061-91a4-918eeb804406" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +10,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$1.coverage" NAME="1 Coverage Results" MODIFIED="1493920437749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_ContextManagers" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$module_y.coverage" NAME="module_y Coverage Results" MODIFIED="1493929992834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test13.coverage" NAME="test13 Coverage Results" MODIFIED="1493820611560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493925488159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1493921656719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1493933825894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1493920212203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_ContextManagers" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1493826812948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1493923317367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1493812261939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1493924152370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493928852201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$arg_demo2.coverage" NAME="arg_demo2 Coverage Results" MODIFIED="1493790940671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$decorum.coverage" NAME="decorum Coverage Results" MODIFIED="1493926054194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1493929110135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1493818471575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$importer.coverage" NAME="importer Coverage Results" MODIFIED="1493931988756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1493919887588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_ContextManagers" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$bar.coverage" NAME="bar Coverage Results" MODIFIED="1493931795700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1493932838842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$1.coverage" NAME="1 Coverage Results" MODIFIED="1493934273425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$module_y.coverage" NAME="module_y Coverage Results" MODIFIED="1493929992834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493925488159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1493826812948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1493923317367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1493812261939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1493929110135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$module_x.coverage" NAME="module_x Coverage Results" MODIFIED="1493930243921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1493919381432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_ContextManagers" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1493919887588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_ContextManagers" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$foo.coverage" NAME="foo Coverage Results" MODIFIED="1493931770891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1493924808196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1493813017286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1493819738653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_The_collections_module" />
-    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1493921153519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$math.coverage" NAME="math Coverage Results" MODIFIED="1493931395839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_All_about_Imports" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -54,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/test1.py" />
-        <option value="$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/arg_demo2.py" />
-        <option value="$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/test2.py" />
         <option value="$PROJECT_DIR$/2_The_collections_module/test1.py" />
         <option value="$PROJECT_DIR$/2_The_collections_module/test2.py" />
         <option value="$PROJECT_DIR$/2_The_collections_module/test3.py" />
@@ -102,6 +99,12 @@
         <option value="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1/module_x.py" />
         <option value="$PROJECT_DIR$/5_All_about_Imports/test1.py" />
         <option value="$PROJECT_DIR$/5_All_about_Imports/math.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/foo.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/bar.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/importer.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/test1.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/test2.py" />
+        <option value="$PROJECT_DIR$/6_the_importlib_Module/1.py" />
       </list>
     </option>
   </component>
@@ -170,97 +173,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.math">
-    <configuration default="false" name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1">
+    <configuration default="false" name="bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_The_functools_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_the_importlib_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_The_functools_module/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_the_importlib_Module/bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="importer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_The_functools_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_the_importlib_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_The_functools_module/test7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_the_importlib_Module/importer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="module_y" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_the_importlib_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1/module_y.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_the_importlib_Module/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="module_x" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_the_importlib_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_All_about_Imports/my_package/sub_package1/module_x.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_the_importlib_Module/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="math" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_All_about_Imports" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_the_importlib_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_All_about_Imports/math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_the_importlib_Module/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,19 +418,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test7" />
-      <item index="2" class="java.lang.String" itemvalue="Python.module_y" />
-      <item index="3" class="java.lang.String" itemvalue="Python.module_x" />
-      <item index="4" class="java.lang.String" itemvalue="Python.math" />
+      <item index="0" class="java.lang.String" itemvalue="Python.bar" />
+      <item index="1" class="java.lang.String" itemvalue="Python.importer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.math" />
-        <item index="1" class="java.lang.String" itemvalue="Python.module_x" />
-        <item index="2" class="java.lang.String" itemvalue="Python.module_y" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.importer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.bar" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +456,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -479,48 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_The_collections_module/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/arg_demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_The_collections_module/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_The_collections_module/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_The_collections_module/test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -872,6 +833,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/importer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/foo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_the_importlib_Module/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
