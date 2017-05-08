@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e35de1-3339-4061-91a4-918eeb804406" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="15e35de1-3339-4061-91a4-918eeb804406" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1494261050164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_The_urllib_Module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1494262276545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_The_urllib_Module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$arg_demo2.coverage" NAME="arg_demo2 Coverage Results" MODIFIED="1493790940671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_An_Intro_to_Argument_Parsing_using_argparse" />
+    <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$test_directives.coverage" NAME="test_directives Coverage Results" MODIFIED="1494267105156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24_The_doctest_Module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$decorum.coverage" NAME="decorum Coverage Results" MODIFIED="1493926054194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_The_functools_module" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$memory_profiler.coverage" NAME="memory_profiler Coverage Results" MODIFIED="1494028235202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_Benchmarking" />
     <SUITE FILE_PATH="coverage/Python_201_Michael_Driscoll$importer.coverage" NAME="importer Coverage Results" MODIFIED="1493931988756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_the_importlib_Module" />
@@ -75,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11_Python_Built-ins/test6.py" />
-        <option value="$PROJECT_DIR$/13_Benchmarking/simple_function.py" />
-        <option value="$PROJECT_DIR$/13_Benchmarking/simple_function2.py" />
-        <option value="$PROJECT_DIR$/13_Benchmarking/test1.py" />
         <option value="$PROJECT_DIR$/13_Benchmarking/test2.py" />
         <option value="$PROJECT_DIR$/13_Benchmarking/1.py" />
         <option value="$PROJECT_DIR$/13_Benchmarking/test3.py" />
@@ -126,6 +121,10 @@
         <option value="$PROJECT_DIR$/22_The_urllib_Module/test6.py" />
         <option value="$PROJECT_DIR$/22_The_urllib_Module/test7.py" />
         <option value="$PROJECT_DIR$/22_The_urllib_Module/test8.py" />
+        <option value="$PROJECT_DIR$/24_The_doctest_Module/mymath.py" />
+        <option value="$PROJECT_DIR$/24_The_doctest_Module/add.txt" />
+        <option value="$PROJECT_DIR$/24_The_doctest_Module/add_test.py" />
+        <option value="$PROJECT_DIR$/24_The_doctest_Module/test_directives.py" />
       </list>
     </option>
   </component>
@@ -194,26 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test8">
-    <configuration default="false" name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_The_urllib_Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_201_Michael_Driscoll" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_The_urllib_Module/test4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test_directives">
     <configuration default="false" name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,6 +265,25 @@
       <module name="Python_201_Michael_Driscoll" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_The_urllib_Module/test8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_directives" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_The_doctest_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_201_Michael_Driscoll" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_The_doctest_Module/test_directives.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,19 +438,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test7" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test8" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test8" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_directives" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test8" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test7" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_directives" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test7" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test6" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -503,34 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13_Benchmarking/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_Benchmarking/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_Benchmarking/prof_hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14_Encryption_and_Cryptography/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14_Encryption_and_Cryptography/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -768,7 +739,7 @@
         <state relative-caret-position="234">
           <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -826,7 +797,7 @@
         <state relative-caret-position="144">
           <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -875,6 +846,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_The_doctest_Module/test_directives.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_The_doctest_Module/add_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_The_doctest_Module/add.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_The_doctest_Module/mymath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding />
         </state>
       </provider>
